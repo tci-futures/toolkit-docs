@@ -24,16 +24,12 @@
 								"group": "Expenses",
 								"pages": [
 									"tools/expenses/introduction",
-									{
-										"group": "Types",
-										"pages": [
-											"tools/expenses/personal",
-											"tools/expenses/card-holder",
-											"tools/expenses/mileage"
-										]
-									},
+									"tools/expenses/personal",
+									"tools/expenses/card-holder",
+									"tools/expenses/mileage",
 									"tools/expenses/managers",
-									"tools/expenses/rejections"
+									"tools/expenses/rejections",
+									"tools/expenses/budget-codes"
 								]
 							}
 						]
