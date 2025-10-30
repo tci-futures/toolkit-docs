@@ -21,6 +21,16 @@
 								"pages": ["tools/risk-register/introduction"]
 							},
 							{
+								"group": "Refund Request",
+								"pages": [
+									"tools/refund-request/introduction",
+									"tools/refund-request/submitting-requests",
+									"tools/refund-request/tracking-queries",
+									"tools/refund-request/approvals",
+									"tools/refund-request/faq"
+								]
+							},
+							{
 								"group": "Expenses",
 								"pages": [
 									"tools/expenses/introduction",
