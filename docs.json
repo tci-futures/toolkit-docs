@@ -35,6 +35,17 @@
 									"tools/expenses/budget-codes",
 									"tools/expenses/faq"
 								]
+							},
+							{
+								"group": "Client Refunds",
+								"pages": [
+									"tools/refund-request/admins",
+									"tools/refund-request/approvals",
+									"tools/refund-request/faq",
+									"tools/refund-request/introduction",
+									"tools/refund-request/submitting-requests",
+									"tools/refund-request/tracking-queries"
+								]
 							}
 						]
 					}
