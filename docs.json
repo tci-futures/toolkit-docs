@@ -17,10 +17,12 @@
 						"group": "Tools",
 						"pages": [
 							{
-								"group": "Risk Register",
-								"pages": ["tools/risk-register/introduction"]
+								"group": "Meeting Notes",
+								"pages": [
+									"tools/meeting-notes/introduction",
+									"tools/meeting-notes/projects"
+								]
 							},
-
 							{
 								"group": "Expenses",
 								"pages": [
