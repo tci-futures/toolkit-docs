@@ -39,7 +39,7 @@
 							{
 								"group": "Client Refunds",
 								"pages": [
-									"tools/refund-request/introduction",
+									"tools/refund-request/introduction"
 								]
 							}
 						]
